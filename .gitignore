@@ -1,13 +1,12 @@
-# Node modules
+# Dependencias
 node_modules/
 
 # Logs
 *.log
-npm-debug.log*
 
 # Variables de entorno
 .env
 
-# Archivos del sistema operativo
+# Archivos del sistema
 .DS_Store
 Thumbs.db
